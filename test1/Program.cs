@@ -9,6 +9,11 @@ namespace test1
             Console.WriteLine("Hello World!");
             Console.WriteLine("dsds");
             Console.WriteLine("dsds");
+            Console.WriteLine("manipulate");
+            Console.WriteLine("       manipulate");
+            Console.WriteLine("       manipulate");
+            Console.WriteLine("       manipulate");
+            Console.WriteLine("  ssss");
         }
     }
 }
