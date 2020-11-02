@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.VisualBasic.CompilerServices;
+using System;
 
 namespace test1
 {
@@ -9,6 +10,8 @@ namespace test1
             Console.WriteLine("Hello World!");
             Console.WriteLine("dsds");
             Console.WriteLine("dsds");
+            int i = 0;
+            Console.Write(i);
         }
     }
 }
